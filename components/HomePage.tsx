@@ -28,6 +28,7 @@ export default function HomePage() {
         >
           Read the blog →
         </Link>
+        
       </div>
     </section>
   );

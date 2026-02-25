@@ -7,7 +7,7 @@ export default function Navbar() {
       <div className="flex gap-6 text-sm text-stone-500 font-medium">
         <a href="/" className="hover:text-amber-500 transition-colors">Home</a>
         <a href="/blog" className="hover:text-amber-500 transition-colors">Blog</a>
-        <a href="/about" className="hover:text-amber-500 transition-colors">About</a>
+        <a  href="/about" className="hover:text-amber-500 transition-colors">About</a>
       </div>
     </nav>
   );
